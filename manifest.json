@@ -1,18 +1,19 @@
 {
   "name": "Ozbet Tool",
-  "short_name": "Ozbet",
+  "short_name": "Ozbet", 
+  "description": "Betting analysis tool",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#0f0f0f",
   "theme_color": "#FFD700",
   "icons": [
     {
-      "src": "https://via.placeholder.com/192x192/FFD700/000000?text=OZ",
+      "src": "https://via.placeholder.com/192x192/FFD700/000?text=OZ",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://via.placeholder.com/512x512/FFD700/000000?text=OZ",
+      "src": "https://via.placeholder.com/512x512/FFD700/000?text=OZ", 
       "sizes": "512x512",
       "type": "image/png"
     }
