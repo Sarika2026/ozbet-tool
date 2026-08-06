@@ -1,19 +1,13 @@
 {
-  "name": "Ozbet Tool",
-  "short_name": "Ozbet", 
-  "description": "Betting analysis tool",
-  "start_url": "./index.html",
+  "name": "OZBet",
+  "short_name": "OZBet", 
+  "start_url": "https://www.tabtouch.com.au",
   "display": "standalone",
-  "background_color": "#0f0f0f",
-  "theme_color": "#FFD700",
+  "background_color": "#000000",
+  "theme_color": "#006600",
   "icons": [
     {
-      "src": "https://via.placeholder.com/192x192/FFD700/000?text=OZ",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "https://via.placeholder.com/512x512/FFD700/000?text=OZ", 
+      "src": "icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
