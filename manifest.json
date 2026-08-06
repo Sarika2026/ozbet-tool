@@ -1,15 +1,8 @@
 {
   "name": "OZBet",
-  "short_name": "OZBet", 
+  "short_name": "OZBet",
   "start_url": "https://www.tabtouch.com.au",
   "display": "standalone",
-  "background_color": "#000000",
-  "theme_color": "#006600",
-  "icons": [
-    {
-      "src": "icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ]
+  "background_color": "#000",
+  "theme_color": "#006600"
 }
