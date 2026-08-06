@@ -1,14 +1,18 @@
 {
-  "name": "Ozbet Race Tool",
+  "name": "Ozbet Tool",
   "short_name": "Ozbet",
-  "description": "Live Ozbet race data tool for Android",
   "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#0056b3",
+  "background_color": "#0f0f0f",
+  "theme_color": "#FFD700",
   "icons": [
     {
-      "src": "https://via.placeholder.com/512.png/0056b3/ffffff?text=OZ",
+      "src": "https://via.placeholder.com/192x192/FFD700/000000?text=OZ",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512/FFD700/000000?text=OZ",
       "sizes": "512x512",
       "type": "image/png"
     }
