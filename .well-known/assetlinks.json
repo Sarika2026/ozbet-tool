@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission.common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.ozbet.tool",
+    "sha256_cert_fingerprints": [
+      "CE:8F:E0:BA:3B:79:4A:85:6F:A3:C2:47:FE:6F:CE:A0:15:DA:56:D2:F5:B8:01:82:A2:90:74:D1:D3:E6:48:4B"
+    ]
+  }
+}]
